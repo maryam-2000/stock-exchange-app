@@ -16,12 +16,11 @@ A real-time stock exchange application: This application will consist of a back-
 - Real Time Updates
 
 ## Technologies Used
-
--ASP.NET Core Web API
--C#
--Angular
--HTML
--CSS
+- ASP.NET Core Web API
+- C#
+- Angular
+- HTML
+- CSS
 
 ## Installation
 
