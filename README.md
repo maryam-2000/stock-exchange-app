@@ -37,8 +37,3 @@ run using https
 # Navigate to the frontend directory and open in vs code
 cd frontend/StockExchangeApp
 ng serve --open
-
-
-
-
-  
