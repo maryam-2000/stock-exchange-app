@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FNj0KcpSS70MdYgH1rsvuL/ncNDRDtoYZ1EnhPcKMks=",
+  "Source": "StockExchangeApplication.API",
+  "BasePath": "_content/StockExchangeApplication.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
