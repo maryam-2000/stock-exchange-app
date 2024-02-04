@@ -19,6 +19,7 @@ A real-time stock exchange application: This application will consist of a back-
 - ASP.NET Core Web API
 - C#
 - Angular
+- Typescript
 - HTML
 - CSS
 
