@@ -4428,11 +4428,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\StockExchangeApplication\\API\\StockExchangeApplication.API\\StockExchangeApplication.API\\StockExchangeApplication.API.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Project\\Backend\\StockExchangeApplication.API\\StockExchangeApplication.API.csproj",
       "projectName": "StockExchangeApplication.API",
-      "projectPath": "C:\\Users\\ASUS\\Desktop\\StockExchangeApplication\\API\\StockExchangeApplication.API\\StockExchangeApplication.API\\StockExchangeApplication.API.csproj",
+      "projectPath": "C:\\Users\\ASUS\\Desktop\\Project\\Backend\\StockExchangeApplication.API\\StockExchangeApplication.API.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Desktop\\StockExchangeApplication\\API\\StockExchangeApplication.API\\StockExchangeApplication.API\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Desktop\\Project\\Backend\\StockExchangeApplication.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

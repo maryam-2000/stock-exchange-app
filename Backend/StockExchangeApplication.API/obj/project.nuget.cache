@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pd+vtBSOmIRhQFAATeNIsbIKHRgXddDY4bbgbXhKKhfBI+MpZISNuP633Mucr2R/XyX1KPnlLaC2mPJl8hv/Dw==",
+  "dgSpecHash": "Q49UcCDhyjD9eSzQczpIm09d/LDNEn8kJ9MniYlYTPQUU5Ewyi9xVhJ6EA5PnWg9rPqyTmmoDgVzrpa9pFIujg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\StockExchangeApplication\\API\\StockExchangeApplication.API\\StockExchangeApplication.API\\StockExchangeApplication.API.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\Project\\Backend\\StockExchangeApplication.API\\StockExchangeApplication.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
