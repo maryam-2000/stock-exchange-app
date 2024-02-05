@@ -1,0 +1,31 @@
+<div class="container">
+
+
+    <h1 class="mt-3">My Orders</h1>
+
+    <div class="d-flex justify-content-end mt-3">
+        <a [routerLink]="['/requests/orders/create']" class="btn btn-primary">Create Order</a>
+    </div>
+
+    <ng-container *ngIf="orders$ | async as orders">
+        <table class="table table-bordered mt-3">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Stock Symbol</th>
+                    <th>Order Type</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let order of orders">
+                    <td>{{order.id}}</td>
+                    <td>{{order.stockSymbol}}</td>
+                    <td>{{order.orderType}}</td>
+                    <td>{{order.quantity}}</td>
+
+                </tr>
+            </tbody>
+        </table>
+    </ng-container>
+</div>
